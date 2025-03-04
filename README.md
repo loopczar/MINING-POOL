@@ -1,4 +1,4 @@
-# [MINING-POOL](https://t.me/czarbit)
+# [MINING POOL](https://t.me/czarbit)
 
 # This code allows you to set automations for your mining pool
 
