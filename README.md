@@ -1,5 +1,6 @@
 # [MINING-POOL](https://t.me/czarbit)
-This code allows you to set automations for your mining pool
+
+# This code allows you to set automations for your mining pool
 
  import os
 import shutil
@@ -82,3 +83,7 @@ with zipfile.ZipFile(f'{dist_dir}.zip', 'w', zipfile.ZIP_DEFLATED) as zipf:
             zipf.write(os.path.join(root, file))
 
 print(dist_dir)
+
+IF YOU HAVE ANY ENQUIRY, PLEASE REACH OUT TO ADMIN FOR GUIDE
+
+# [ADMIN](https://t.me/czarbit)
